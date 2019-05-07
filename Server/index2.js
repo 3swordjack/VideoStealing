@@ -15,7 +15,7 @@ const SmeeClient = require('smee-client')
 
 const smee = new SmeeClient({
   source: 'https://smee.io/hRo3bOthd3GrepAP',
-  target: 'http://localhost:3000/events',
+  target: 'http://localhost:3000',
   logger: console
 })
 
