@@ -8,6 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   function sendURL(URL) {
-      window.location.href = `https://lucky-eel-76.localtunnel.me/download?URL=${URL}`;
+      window.location.href = `https://smee.io/hRo3bOthd3GrepAP/download?URL=${URL}`;
   }
 });

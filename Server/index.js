@@ -3,7 +3,7 @@ const cors = require('cors');
 const ytdl = require('ytdl-core');
 const app = express();
 
-const port = lt --port 4000;
+const port = 3000;
 
 app.use(cors());
 
